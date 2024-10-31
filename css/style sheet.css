@@ -1,0 +1,33 @@
+.card {
+
+    border: 1px solid;
+    padding: 20px;
+    background-color: beige;
+    margin: 10px;
+    border-radius: 8px;
+}
+#main-heading {
+font-size: 2em;
+color: blanchedalmond;
+text-align: center;
+margin-bottom: 20px ;
+
+
+
+}
+a[target ="_blank"] {
+
+color: blanchedalmond;
+
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+button[disabled] {
+    background-color: blue;
+    color:blueviolet;
+    cursor: not-allowed;
+}
